@@ -3,7 +3,6 @@
     echo "hello worlad";
     echo "hello worlad";
     add fix-B
-usoyan
 ?>
 
 
